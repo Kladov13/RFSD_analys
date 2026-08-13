@@ -68,4 +68,4 @@ jupyter notebook rfsd_analysis.ipynb
 
 ## Источник данных
 
-- Репозиторий: [https://github.com/irlcode/RFSD](https://github.com/Kladov13/RFSD_analysis)
+- Репозиторий: [https://github.com/irlcode/RFSD](https://github.com/Kladov13/RFSD_analys)
